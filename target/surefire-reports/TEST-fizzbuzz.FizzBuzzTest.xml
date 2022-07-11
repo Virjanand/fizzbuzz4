@@ -6,7 +6,7 @@
     <property name="java.vm.version" value="11.0.13+8"/>
     <property name="sun.boot.library.path" value="C:\Program Files\OpenJDK\openjdk-11.0.13_8\bin"/>
     <property name="user.country.format" value="NL"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Seren\Documents\SoftwareDevelopment\java\Katas\dojo\fizzbuzz3"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Seren\Documents\SoftwareDevelopment\java\Katas\dojo\fizzbuzz4"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="https://openjdk.java.net/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -17,7 +17,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\Seren\Documents\SoftwareDevelopment\java\Katas\dojo\fizzbuzz3"/>
+    <property name="user.dir" value="C:\Users\Seren\Documents\SoftwareDevelopment\java\Katas\dojo\fizzbuzz4"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="java.runtime.version" value="11.0.13+8"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
